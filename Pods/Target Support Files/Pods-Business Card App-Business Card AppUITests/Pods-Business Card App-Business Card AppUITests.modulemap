@@ -1,0 +1,6 @@
+framework module Pods_Business_Card_App_Business_Card_AppUITests {
+  umbrella header "Pods-Business Card App-Business Card AppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
